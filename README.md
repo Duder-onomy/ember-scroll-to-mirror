@@ -1,3 +1,6 @@
+# ember-scroll-to-mirror
+THIS IS A MIRROR OF ragnarpeterson/ember-scroll-to except master is actually on NPM. Hopefully soon, I will deprecate this when the original is published. 
+
 # ember-scroll-to
 
 Animated vertical scrolling to a specified id.
@@ -5,7 +8,7 @@ Animated vertical scrolling to a specified id.
 
 ## Installation
 
-From within your ember-cli project directory: 
+From within your ember-cli project directory:
 
 ```bash
 ember install ember-scroll-to

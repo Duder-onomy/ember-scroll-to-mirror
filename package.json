@@ -1,5 +1,5 @@
 {
-  "name": "ember-scroll-to",
+  "name": "ember-scroll-to-mirror",
   "version": "0.6.5",
   "description": "Animated scrolling to a specified id.",
   "directories": {
@@ -11,11 +11,11 @@
     "start": "ember server",
     "test": "ember try:each"
   },
-  "repository": "https://github.com/jasonkriss/ember-scroll-to",
+  "repository": "https://github.com/Duder-onomy/ember-scroll-to-mirror",
   "engines": {
     "node": "^4.5 || 6.* || >= 7.*"
   },
-  "author": "Jason Kriss",
+  "author": "Greg Larrenaga",
   "license": "MIT",
   "dependencies": {
     "ember-cli-babel": "^6.3.0",
